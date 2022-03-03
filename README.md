@@ -1,2 +1,2 @@
-[https://thirsty-bose-d21886.netlify.app/](https://thirsty-bose-d21886.netlify.app/)
-# mega_empire_static
+[https://mega-empire-static.netlify.app/](https://mega-empire-static.netlify.app/)
+# This is static View
