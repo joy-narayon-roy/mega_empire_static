@@ -1,0 +1,380 @@
+{
+  "tag": "#RRVJCJVY",
+  "name": "MEGA EMPIRE",
+  "type": "inviteOnly",
+  "description": "Join here for donat @ co-leader",
+  "location": {
+    "id": 32000026,
+    "name": "Bangladesh",
+    "isCountry": true,
+    "countryCode": "BD"
+  },
+  "badgeUrls": {
+    "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+    "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+    "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+  },
+  "clanLevel": 5,
+  "clanPoints": 7308,
+  "clanVersusPoints": 5613,
+  "requiredTrophies": 0,
+  "warFrequency": "always",
+  "warWinStreak": 1,
+  "warWins": 52,
+  "isWarLogPublic": false,
+  "warLeague": {
+    "id": 48000005,
+    "name": "Silver League II"
+  },
+  "members": 15,
+  "memberList": [
+    {
+      "tag": "#98QYV2PYR",
+      "name": "Joy",
+      "role": "coLeader",
+      "expLevel": 108,
+      "league": {
+        "id": 29000009,
+        "name": "Gold League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+        }
+      },
+      "trophies": 1747,
+      "versusTrophies": 2066,
+      "clanRank": 1,
+      "previousClanRank": 1,
+      "donations": 637,
+      "donationsReceived": 341
+    },
+    {
+      "tag": "#8GPVY8Y9L",
+      "name": "HRIDOY @ NITUN",
+      "role": "leader",
+      "expLevel": 111,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1464,
+      "versusTrophies": 1754,
+      "clanRank": 2,
+      "previousClanRank": 5,
+      "donations": 3547,
+      "donationsReceived": 765
+    },
+    {
+      "tag": "#9UR9Y2LUJ",
+      "name": "KING",
+      "role": "coLeader",
+      "expLevel": 72,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1451,
+      "versusTrophies": 1442,
+      "clanRank": 3,
+      "previousClanRank": 3,
+      "donations": 568,
+      "donationsReceived": 1509
+    },
+    {
+      "tag": "#9C2PPRJRP",
+      "name": "HRIDOY ROY",
+      "role": "coLeader",
+      "expLevel": 73,
+      "league": {
+        "id": 29000007,
+        "name": "Gold League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/vd4Lhz5b2I1P0cLH25B6q63JN3Wt1j2NTMhOYpMPQ4M.png"
+        }
+      },
+      "trophies": 1375,
+      "versusTrophies": 908,
+      "clanRank": 4,
+      "previousClanRank": 4,
+      "donations": 747,
+      "donationsReceived": 1280
+    },
+    {
+      "tag": "#99CRJR8C8",
+      "name": "Joy Roy",
+      "role": "coLeader",
+      "expLevel": 78,
+      "league": {
+        "id": 29000006,
+        "name": "Silver League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/nvrBLvCK10elRHmD1g9w5UU1flDRMhYAojMB2UbYfPs.png"
+        }
+      },
+      "trophies": 1298,
+      "versusTrophies": 1449,
+      "clanRank": 5,
+      "previousClanRank": 6,
+      "donations": 20,
+      "donationsReceived": 459
+    },
+    {
+      "tag": "#QCLP02LGR",
+      "name": "ROY2.O",
+      "role": "coLeader",
+      "expLevel": 44,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1110,
+      "versusTrophies": 999,
+      "clanRank": 6,
+      "previousClanRank": 8,
+      "donations": 93,
+      "donationsReceived": 680
+    },
+    {
+      "tag": "#9GC8YVP88",
+      "name": "King of World",
+      "role": "coLeader",
+      "expLevel": 48,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1076,
+      "versusTrophies": 224,
+      "clanRank": 7,
+      "previousClanRank": 7,
+      "donations": 0,
+      "donationsReceived": 180
+    },
+    {
+      "tag": "#9CVPQQ2CQ",
+      "name": "The King",
+      "role": "coLeader",
+      "expLevel": 53,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1057,
+      "versusTrophies": 888,
+      "clanRank": 8,
+      "previousClanRank": 9,
+      "donations": 0,
+      "donationsReceived": 220
+    },
+    {
+      "tag": "#9JCUQ88U8",
+      "name": "DJ BOY HRIDOY",
+      "role": "coLeader",
+      "expLevel": 53,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 1001,
+      "versusTrophies": 1019,
+      "clanRank": 9,
+      "previousClanRank": 10,
+      "donations": 376,
+      "donationsReceived": 920
+    },
+    {
+      "tag": "#QR9LYGYVU",
+      "name": "Lord Of Death",
+      "role": "coLeader",
+      "expLevel": 32,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 966,
+      "versusTrophies": 50,
+      "clanRank": 10,
+      "previousClanRank": 12,
+      "donations": 0,
+      "donationsReceived": 570
+    },
+    {
+      "tag": "#9UPQ9QJ22",
+      "name": "Wizad King",
+      "role": "coLeader",
+      "expLevel": 48,
+      "league": {
+        "id": 29000005,
+        "name": "Silver League II",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/8OhXcwDJkenBH2kPH73eXftFOpHHRF-b32n0yrTqC44.png"
+        }
+      },
+      "trophies": 952,
+      "versusTrophies": 319,
+      "clanRank": 11,
+      "previousClanRank": 11,
+      "donations": 0,
+      "donationsReceived": 160
+    },
+    {
+      "tag": "#QR2LP8RJC",
+      "name": "HAWK-EYE",
+      "role": "coLeader",
+      "expLevel": 33,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 872,
+      "versusTrophies": 166,
+      "clanRank": 12,
+      "previousClanRank": 13,
+      "donations": 0,
+      "donationsReceived": 655
+    },
+    {
+      "tag": "#Q9U2UVPR2",
+      "name": "HERCULES",
+      "role": "coLeader",
+      "expLevel": 32,
+      "league": {
+        "id": 29000004,
+        "name": "Silver League III",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/QcFBfoArnafaXCnB5OfI7vESpQEBuvWtzOyLq8gJzVc.png"
+        }
+      },
+      "trophies": 831,
+      "versusTrophies": 114,
+      "clanRank": 13,
+      "previousClanRank": 14,
+      "donations": 0,
+      "donationsReceived": 465
+    },
+    {
+      "tag": "#QYLUVQPCL",
+      "name": "Error",
+      "role": "coLeader",
+      "expLevel": 27,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 767,
+      "versusTrophies": 0,
+      "clanRank": 14,
+      "previousClanRank": 15,
+      "donations": 0,
+      "donationsReceived": 105
+    },
+    {
+      "tag": "#QR8LCUGGV",
+      "name": "Nutshell",
+      "role": "coLeader",
+      "expLevel": 27,
+      "league": {
+        "id": 29000003,
+        "name": "Bronze League I",
+        "iconUrls": {
+          "small": "https://api-assets.clashofclans.com/leagues/72/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "tiny": "https://api-assets.clashofclans.com/leagues/36/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png",
+          "medium": "https://api-assets.clashofclans.com/leagues/288/SZIXZHZxfHTmgseKCH6T5hvMQ3JQM-Js2QfpC9A3ya0.png"
+        }
+      },
+      "trophies": 736,
+      "versusTrophies": 0,
+      "clanRank": 15,
+      "previousClanRank": 16,
+      "donations": 0,
+      "donationsReceived": 85
+    }
+  ],
+  "labels": [
+    {
+      "id": 56000000,
+      "name": "Clan Wars",
+      "iconUrls": {
+        "small": "https://api-assets.clashofclans.com/labels/64/lXaIuoTlfoNOY5fKcQGeT57apz1KFWkN9-raxqIlMbE.png",
+        "medium": "https://api-assets.clashofclans.com/labels/128/lXaIuoTlfoNOY5fKcQGeT57apz1KFWkN9-raxqIlMbE.png"
+      }
+    },
+    {
+      "id": 56000001,
+      "name": "Clan War League",
+      "iconUrls": {
+        "small": "https://api-assets.clashofclans.com/labels/64/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png",
+        "medium": "https://api-assets.clashofclans.com/labels/128/5w60_3bdtYUe9SM6rkxBRyV_8VvWw_jTlDS5ieU3IsI.png"
+      }
+    },
+    {
+      "id": 56000004,
+      "name": "Clan Games",
+      "iconUrls": {
+        "small": "https://api-assets.clashofclans.com/labels/64/7qU7tQGERiVITVG0CPFov1-BnFldu4bMN2gXML5bLIU.png",
+        "medium": "https://api-assets.clashofclans.com/labels/128/7qU7tQGERiVITVG0CPFov1-BnFldu4bMN2gXML5bLIU.png"
+      }
+    }
+  ],
+  "chatLanguage": {
+    "id": 75000000,
+    "name": "English",
+    "languageCode": "EN"
+  },
+  "requiredVersusTrophies": 0,
+  "requiredTownhallLevel": 1
+}

@@ -1,0 +1,719 @@
+main {
+  overflow: hidden;
+}
+
+.nav{
+  display: block;
+  /* width: 200px; */
+  width: 0;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: var(--col-bg-gray);
+  z-index: 30;
+}
+.nav--toggle{
+  height: 70px;
+  width: 30px;
+  position: absolute;
+  top: calc(50% - 10px);
+  right: -30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.nav--toggle::before{
+  content: " ";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 30px solid transparent;
+  border-bottom: 30px solid var(--col-bg-gray);
+}
+.nav--toggle::after{
+  content: " ";
+  display: block;
+  width: 0;
+  height: 0;
+  border-left: 0px solid transparent;
+  border-right: 30px solid transparent;
+  border-top: 30px solid var(--col-bg-gray);
+}
+.nav--toggle button{
+  display: block;
+  width: 100%;
+  font-size: 1.8rem;
+  height: 100%;
+  padding: 30px auto;
+}
+.navShow{
+  width: 200px; 
+  transition-timing-function: ease;
+  transition-property: width;
+  transition-duration: 0.8s;
+}
+.navHide{
+  width: 0px;
+  transition-timing-function: ease;
+  transition-property: width;
+  transition-duration: 0.8s;
+
+}
+
+.greating-section {
+  width: 100%;
+  height: auto;
+  background-image: url("/images/greating.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-y: center;
+  background-attachment: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.greating--card {
+  width: 100%;
+  min-height: 400px;
+  max-width: 800px;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  border-radius: 10px;
+  background: #000;
+  background-position: top -40rem left -10rem;
+  background-repeat: no-repeat;
+  background-size: 75rem 75rem;
+  background: linear-gradient(45deg, #b3232f, #181b1b);
+  animation-name: greating1;
+  animation-duration: 1s;
+  animation-timing-function: cubic-bezier(0.41, 0.9, 0.43, 1.1);
+  box-shadow: inset 0px 0px 6px 10px #00000029;
+}
+
+.greating--card_greating {
+  flex: 50%;
+}
+.greating--card_greating h1 {
+  font-family: coc;
+  color: #fff;
+}
+.greating--card_greating p {
+  color: #fff;
+  text-align: justify;
+  margin: 10px 0;
+  font-family: "Roboto";
+  font-weight: 450;
+}
+.greating--card_greating button {
+  display: block;
+  font-family: coc;
+  background: linear-gradient(180deg, var(--btn-green), var(--btn-green-lts));
+  font-size: 1.1rem;
+  padding: 0.5rem;
+  border-radius: 8px;
+  color: #fff;
+  text-shadow: -2px -2px 1px #000;
+  border: 2px solid var(--btn-green);
+  outline: none;
+  margin: 10px auto;
+}
+.greating--card_greating button:focus {
+  transition-duration: 0.2s;
+  box-shadow: 0 0 0px 4px var(--btn-green-lts);
+  background: linear-gradient(180deg, var(--btn-green-lts), var(--btn-green));
+  text-shadow: 0px 2px 1px #000;
+}
+.greating--card_image {
+  flex: 50%;
+  min-height: 200px;
+}
+
+/* Lebel Start */
+.lable-section {
+  background: #5699f0;
+  margin-top: 0px;
+  height: auto;
+}
+.section-title {
+  text-align: center;
+  padding: 10px 10px;
+  font-size: 2.1em;
+  border-bottom: 1px solid var(--col-gray);
+  margin: 10px auto;
+  font-weight: bold;
+}
+
+.label--cards {
+  max-width: 900px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  align-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+.label--cards_card {
+  width: 150px;
+  height: 150px;
+  margin: 10px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  position: relative;
+  border-radius: 10px;
+}
+/* Lebel End */
+
+/* War League Card Start */
+
+/* 
+Card Green - #18BA58
+Green Light - #66D090
+Gray - #3A3A3A
+Gray Light - #4A4A4A
+Yellow - FFCC00
+Arrow Green - #92CF4E
+ */
+.warleague-section {
+  background-image: url("/images/leagueBaner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  padding: 30px 0;
+}
+.warleague--card {
+  width: 60%;
+  max-width: 600px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  box-shadow: 0 0 18px 7px #c4cade6b;
+  border-radius: 10px;
+  /* background-image: radial-gradient(20rem 20rem, #00a0fd 50%, #fafafa00 50%); */
+  background: linear-gradient(180deg, #66d090 40%, #18ba58 60%);
+}
+.warleague--card_body {
+  flex: 50%;
+}
+.warleague--card_body ul {
+  list-style: none;
+  list-style-position: inside;
+  color: #fff;
+  padding: 1rem 0.5rem;
+}
+.warleague--card_body ul li {
+  font-family: coc;
+  margin-top: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #66d090;
+}
+.warleague--card_body ul li:first-child {
+  font-size: 1.5rem;
+}
+.warleague--card_body ul li:nth-child(2) {
+  font-size: 1.1rem;
+}
+.warleague--card_body ul li:nth-child(3) {
+  color: #2bff80;
+}
+.warleague--card_body ul li span.uparrow {
+  width: 0;
+  height: 0;
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid #87e220;
+  border-radius: 50px;
+  float: right;
+  animation-timing-function: ease-in-out;
+  animation-name: updown;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+@keyframes updown {
+  0% {
+    margin: 0;
+  }
+  20% {
+    margin-top: -10px;
+  }
+  40% {
+    margin-top: 0;
+  }
+  50% {
+    margin-top: 0;
+  }
+  75% {
+    margin-top: 0;
+  }
+  100% {
+    margin: 0;
+  }
+}
+.warleague--card_body ul li:last-child {
+  border: none;
+}
+.warleague--card_body ul li button {
+  margin-left: 10px;
+}
+.warleague--card_image {
+  flex: 40%;
+}
+.warleague--card_image img {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+}
+/* War League Card End */
+
+/* Members Start */
+.members-section {
+  background: #eee;
+}
+.members--cards {
+  width: 100%;
+  margin: 0 auto;
+  min-height: 500px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.members-card {
+  width: 80%;
+  max-width: 300px;
+  margin: 20px 10px;
+  border-radius: 10px;
+  padding: 10px;
+  background: #fff;
+  box-shadow: 0px 0px 10px 0px #2448ff33;
+}
+.leader {
+  background: #6ae59f;
+  background: #a2efc3;
+  background: #0a9396;
+}
+
+.members-card .member-img {
+  width: 100%;
+  margin: 0 auto;
+  max-width: 200px;
+  /* border-bottom: 2px solid #eee; */
+}
+.members-card .member-body {
+  padding: 5px 0;
+  width: 100%;
+  border-top: 1px solid #eee;
+}
+.members-card .member-body > li {
+  margin-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #eeeeee;
+  font-family: Roboto;
+  font-weight: 400;
+  color: #021435;
+  font-size: 1.01rem;
+}
+.members-card .member-body > li.name {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+.members-card .member-body li:last-child {
+  border: none;
+}
+.members--cards img,
+.members--cards ul {
+  display: block;
+}
+.leader .member-body li {
+  color: #fff;
+}
+.morebtn {
+  padding: 5px 10px;
+  display: inline-block;
+  background: #219ebc;
+  color: #fff;
+  margin: 5px 10px;
+  border: 2px solid transparent;
+  border-radius: 5px;
+}
+.morebtn:hover {
+  background: #264653;
+  border: 2px solid #fff;
+  box-shadow: 0 0 20px 0 #264653;
+}
+/* Members End */
+
+/* Feedback Form Start */
+.feedback-section {
+  width: 100%;
+  background: #f0f2f5;
+  color: #183153;
+}
+.feedback--form {
+  width: 100%;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.feedback--form_email {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid #dbdee4;
+}
+.feedback--form_email span {
+  font-size: 1.5rem;
+  background: #f0f2f5;
+  width: 35px;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.feedback--form_email input {
+  display: block;
+  width: 100%;
+  font-size: 1.1rem;
+  border: none;
+  outline: none;
+  padding: 5px;
+}
+.feedback--form_body {
+  margin: 10px 0;
+resize: none;
+  display: block;
+  width: 100%;
+  outline: none;
+  border: 1px solid #dbdee4;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1.1rem;
+}
+.feedback--form_submit{
+  display: inline-block;
+  background: #f0f2f5;
+  border: 1px solid #dbdee4;
+  outline: none;
+  font-size: 1.2rem;
+  padding: 0.3rem 0.5rem;
+  border-radius: 5px;
+}
+.feedback--form_submit:hover{
+  background: var(--id-blue-ltz);
+  color: #fff;
+  box-shadow: 0px 0px 0px 3px var(--id-blue-ltz);}
+/* Feedback Form End */
+
+@keyframes greating1 {
+  from {
+    opacity: 0;
+    transform: scale(0);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+/* Responsiv Start */
+@media only screen and (max-width: 600px) {
+  .greating--card {
+    display: flex;
+    width: 95%;
+    flex-direction: column-reverse;
+  }
+  .greating--card_image {
+    width: 100%;
+    display: block;
+  }
+  .greating--card_image img {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+
+  .label--cards {
+    flex-direction: row;
+    flex-basis: content;
+    flex-wrap: nowrap;
+  }
+  .label--cards_card {
+    width: 128px;
+    height: auto;
+    flex-direction: row;
+    transition-property: width;
+    transition-duration: 0.4s;
+    transition-timing-function: ease-in-out;
+  }
+  .label--cards_card-img {
+    display: block;
+    max-width: 150px;
+  }
+  .label--cards_card-body {
+    width: 0;
+    font-size: 1.5rem;
+    overflow: hidden;
+  }
+  .label--cards_card-body h3 {
+    display: block;
+    width: 100%;
+    font-weight: bold;
+    max-height: 2rem;
+    text-align: center;
+  }
+  .label--cards_card-body::first-letter {
+    color: var(--col-red-0);
+  }
+
+  .warleague--card {
+    width: 95%;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    border-radius: 10px;
+  }
+  .warleague--card_body {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+  }
+  .warleague--card_image img {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .greating--card {
+    display: flex;
+    width: 95%;
+    flex-direction: column-reverse;
+  }
+  .greating--card_image {
+    width: 100%;
+    display: block;
+  }
+  .greating--card_image img {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+
+  .label--cards_card {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    position: relative;
+    border-radius: 10px;
+  }
+  .label--cards_card-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 22;
+    transition-timing-function: ease;
+    transition-duration: 0.6s;
+    background: #fff;
+    border-radius: 15px;
+  }
+  /* .label--cards_card:hover .label--cards_card-img {
+    top: -30px;
+    right: 50%;
+    left: calc(50% + 10px);
+    margin-left: -50px;
+    width: 50%;
+  } */
+  .label--cards_card-body h3 {
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-top: 25px;
+    color: #182f5a;
+    padding: 5px;
+    text-align: center;
+  }
+  .label--cards_card-body::first-letter {
+    color: var(--col-red-0);
+  }
+
+  .warleague--card {
+    width: 95%;
+    height: auto;
+    margin: 10px auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column-reverse;
+    border-radius: 10px;
+  }
+  .warleague--card_body {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+  }
+  .warleague--card_image img {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .greating--card {
+    display: flex;
+    width: 95%;
+    flex-direction: column-reverse;
+  }
+  .greating--card_image {
+    width: 100%;
+    display: block;
+  }
+  .greating--card_image img {
+    display: block;
+    max-width: 200px;
+    margin: 0 auto;
+  }
+
+  .label--cards_card {
+    width: 150px;
+    height: 150px;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #fff;
+    position: relative;
+  }
+  .label--cards_card-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 22;
+    transition-timing-function: ease;
+    transition-duration: 0.6s;
+    background: #fff;
+    border-radius: 15px;
+  }
+  .label--cards_card:hover .label--cards_card-img {
+    top: -30px;
+    right: 50%;
+    left: calc(50% + 10px);
+    margin-left: -50px;
+    width: 50%;
+  }
+  .label--cards_card-body h3 {
+    font-weight: 600;
+    font-size: 1.4rem;
+    margin-top: 25px;
+    color: #182f5a;
+    padding: 5px;
+    text-align: center;
+  }
+  .label--cards_card-body::first-letter {
+    color: var(--col-red-0);
+  }
+
+  .warleague-section {
+    background-image: url("/images/leagueBaner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 30px 0;
+  }
+  .warleague--card {
+    width: 90%;
+    max-width: 600px;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0 0 18px 7px #c4cade6b;
+    border-radius: 10px;
+    background: linear-gradient(180deg, #66d090 40%, #18ba58 60%);
+  }
+  .warleague--card_body {
+    flex: 50%;
+  }
+  .warleague--card_body ul {
+    list-style: none;
+    list-style-position: inside;
+    color: #fff;
+    padding: 1rem 0.5rem;
+  }
+  .warleague--card_body ul li {
+    font-family: coc;
+    margin-top: 15px;
+    padding-bottom: 5px;
+    border-bottom: 1px dashed #66d090;
+  }
+  .warleague--card_body ul li:first-child {
+    font-size: 1.5rem;
+  }
+  .warleague--card_body ul li:nth-child(2) {
+    font-size: 1.1rem;
+  }
+  .warleague--card_body ul li:nth-child(3) {
+    color: #2bff80;
+  }
+
+  span.uparrow {
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #87e220;
+    border-radius: 50px;
+    float: right;
+    animation-timing-function: ease-in-out;
+    animation-name: updown;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .greating--card {
+    display: flex;
+    width: 95%;
+    flex-direction: row;
+  }
+  .greating--card_image {
+    width: 100%;
+    display: block;
+  }
+  .greating--card_image img {
+    display: block;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+}

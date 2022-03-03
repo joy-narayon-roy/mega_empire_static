@@ -1,0 +1,66 @@
+[
+    {
+        "code": "#3c5b56",
+        "name": "bulder-base-soil"
+    },
+    {
+        "code": "#4e538d",
+        "name": "perpal-grad-1"
+    },
+    {
+        "code": "#4e538e",
+        "name": "perpal-grad-0"
+    },
+    {
+        "code": "#503d31",
+        "name": "war-base-soil-dark"
+    },
+    {
+        "code": "#6b7899",
+        "name": "bluish-purpell"
+    },
+    {
+        "code": "#6dbc1f",
+        "name": "green"
+    },
+    {
+        "code": "#918980",
+        "name": "tab-active"
+    },
+    {
+        "code": "#988b53",
+        "name": "war-base-soil"
+    },
+    {
+        "code": "#a3c469",
+        "name": "green-select"
+    },
+    {
+        "code": "#ac3d3d",
+        "name": "red-500"
+    },
+    {
+        "code": "#c4c4c4",
+        "name": "gray-tab"
+    },
+    {
+        "code": "#cecece",
+        "name": "disable"
+    },
+    {
+        "code": "#db1115",
+        "name": "red"
+    },
+    {
+        "code": "#e2f98b",
+        "name": "green"
+    },
+    {
+        "code": "#e8e8e0",
+        "name": "main-white"
+    },
+    {
+        "code": "#fe767c",
+        "name": "red-100"
+    }
+]
