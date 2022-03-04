@@ -330,8 +330,9 @@ window.onload=()=>{
     for(let cssLink of cssLinks){
         let rel = cssLink.attributes.getNamedItem('rel').value
         if (rel == "stylesheet" && pathname == "/mega_empire_static/") {
-            // cssLink.setAttribute('href',)
             let baseUrl = cssLink.getAttribute('href')
+            baseUrl = pathname + baseUrl
+            cssLink.setAttribute('href',baseUrl)
             console.dir(cssLink)
             console.log(baseUrl)
         }
