@@ -322,6 +322,12 @@
 
     <script src="https://kit.fontawesome.com/3f767751d3.js" crossorigin="anonymous"></script>
     <script>
+
+window.onload=()=>{
+    let {origin,pathname} = new URL(location.href)
+    console.log(origin, pathname)  
+}
+
         let btns = document.querySelectorAll("#joinus")
         btns.forEach(btn => {
             btn.addEventListener('click', e => {
