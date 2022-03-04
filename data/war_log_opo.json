@@ -1,0 +1,993 @@
+{
+  "items": [
+    {
+      "result": "win",
+      "endTime": "20220228T164302.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 11,
+        "stars": 21,
+        "destructionPercentage": 77,
+        "expEarned": 123
+      },
+      "opponent": {
+        "tag": "#2Q2CU0022",
+        "name": "DPS99A",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/EGddyvUVom3TURljqknbIK9mp9kmQQ2AQvzcMdQdB-M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/EGddyvUVom3TURljqknbIK9mp9kmQQ2AQvzcMdQdB-M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/EGddyvUVom3TURljqknbIK9mp9kmQQ2AQvzcMdQdB-M.png"
+        },
+        "clanLevel": 2,
+        "stars": 19,
+        "destructionPercentage": 67.1
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210321T173518.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 7,
+        "stars": 5,
+        "destructionPercentage": 54.6,
+        "expEarned": 15
+      },
+      "opponent": {
+        "tag": "#20RQYCVUL",
+        "name": "bd warrior",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Dhgj841bu4gQxC0cckqHaUxW1qyFByvLJEYO0x9JHEI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Dhgj841bu4gQxC0cckqHaUxW1qyFByvLJEYO0x9JHEI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Dhgj841bu4gQxC0cckqHaUxW1qyFByvLJEYO0x9JHEI.png"
+        },
+        "clanLevel": 9,
+        "stars": 13,
+        "destructionPercentage": 88.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210319T165512.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 83.6,
+        "expEarned": 115
+      },
+      "opponent": {
+        "tag": "#2LP2P2LJV",
+        "name": "4th floor",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zH0_X0FS1iSrKf4E7VytURMG8hxdgbw37lYA3N9gw1g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zH0_X0FS1iSrKf4E7VytURMG8hxdgbw37lYA3N9gw1g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zH0_X0FS1iSrKf4E7VytURMG8hxdgbw37lYA3N9gw1g.png"
+        },
+        "clanLevel": 2,
+        "stars": 10,
+        "destructionPercentage": 76.4
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210317T160148.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 6,
+        "stars": 12,
+        "destructionPercentage": 43,
+        "expEarned": 38
+      },
+      "opponent": {
+        "tag": "#2YL9YGGPQ",
+        "name": "خان سیتی007",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fWervXVIi92UOVSbkcHIcOJBRx63pSr-ExM6M-ZqO54.png"
+        },
+        "clanLevel": 4,
+        "stars": 20,
+        "destructionPercentage": 69.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210314T192049.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 16,
+        "stars": 25,
+        "destructionPercentage": 69.13333,
+        "expEarned": 123
+      },
+      "opponent": {
+        "tag": "#29QRCGGC2",
+        "name": "Tacoslothbob",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/YIttvq9474RhRD--94LhmrR9eOnB2ITNAxGGlRbBfIo.png"
+        },
+        "clanLevel": 5,
+        "stars": 16,
+        "destructionPercentage": 45
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210312T163640.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 12,
+        "stars": 19,
+        "destructionPercentage": 71.3,
+        "expEarned": 127
+      },
+      "opponent": {
+        "tag": "#2Y0GCR99U",
+        "name": "coc tamilans",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/d6DpiadPHAr5auRlQrgjEhPSct1qEerU2DC_xKKOhrY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/d6DpiadPHAr5auRlQrgjEhPSct1qEerU2DC_xKKOhrY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/d6DpiadPHAr5auRlQrgjEhPSct1qEerU2DC_xKKOhrY.png"
+        },
+        "clanLevel": 7,
+        "stars": 17,
+        "destructionPercentage": 62.1
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20210309T091449.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 61,
+        "stars": 203,
+        "destructionPercentage": 373,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 69,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210228T174248.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HC8I1Zpt0BQ2mOupSU6Z4zFo2Sf8ayMZ-BJCilYOgEo.png"
+        },
+        "clanLevel": 4,
+        "attacks": 15,
+        "stars": 28,
+        "destructionPercentage": 93.9,
+        "expEarned": 125
+      },
+      "opponent": {
+        "tag": "#2L9GR9CPU",
+        "name": "Jericallos",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Ln6L4w0DhRGLCojSMNfFp3daWGvT3p9-0tg9oFdJCT0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Ln6L4w0DhRGLCojSMNfFp3daWGvT3p9-0tg9oFdJCT0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Ln6L4w0DhRGLCojSMNfFp3daWGvT3p9-0tg9oFdJCT0.png"
+        },
+        "clanLevel": 3,
+        "stars": 5,
+        "destructionPercentage": 23.2
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210220T054035.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 6,
+        "stars": 6,
+        "destructionPercentage": 29,
+        "expEarned": 24
+      },
+      "opponent": {
+        "tag": "#28YUUC92",
+        "name": "INDIAN EMPIRE™",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9yqPzyoiXjixGjB_pTA_GSI20Ny6ylIkCyM6XW7sFOs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9yqPzyoiXjixGjB_pTA_GSI20Ny6ylIkCyM6XW7sFOs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9yqPzyoiXjixGjB_pTA_GSI20Ny6ylIkCyM6XW7sFOs.png"
+        },
+        "clanLevel": 10,
+        "stars": 14,
+        "destructionPercentage": 48.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210217T210607.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 20,
+        "stars": 35,
+        "destructionPercentage": 86.13333,
+        "expEarned": 99
+      },
+      "opponent": {
+        "tag": "#2YLUV0UJ2",
+        "name": "NKT",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Y7jUsxD9EwI7htujOB0idbiZw4tbefSdSNJ_9ujmBqs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Y7jUsxD9EwI7htujOB0idbiZw4tbefSdSNJ_9ujmBqs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Y7jUsxD9EwI7htujOB0idbiZw4tbefSdSNJ_9ujmBqs.png"
+        },
+        "clanLevel": 4,
+        "stars": 38,
+        "destructionPercentage": 91.666664
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210215T210945.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 17,
+        "stars": 25,
+        "destructionPercentage": 87.7,
+        "expEarned": 133
+      },
+      "opponent": {
+        "tag": "#2PGLQYCJP",
+        "name": "Auaze",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-roz_kBNomOFCjnoPscfYX3cmMcj4P7hY8CUBp_EQpQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-roz_kBNomOFCjnoPscfYX3cmMcj4P7hY8CUBp_EQpQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-roz_kBNomOFCjnoPscfYX3cmMcj4P7hY8CUBp_EQpQ.png"
+        },
+        "clanLevel": 5,
+        "stars": 22,
+        "destructionPercentage": 79.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210213T201420.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 17,
+        "stars": 27,
+        "destructionPercentage": 98.3,
+        "expEarned": 129
+      },
+      "opponent": {
+        "tag": "#2LYL9LP2C",
+        "name": "koalabannanas",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xBUFPjQseb4ZTL3F6rsDxcLlCN_Qq2io5WfPehyZ3EM.png"
+        },
+        "clanLevel": 2,
+        "stars": 17,
+        "destructionPercentage": 64.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210211T185313.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 13,
+        "stars": 21,
+        "destructionPercentage": 83.1,
+        "expEarned": 126
+      },
+      "opponent": {
+        "tag": "#2LP9UC22V",
+        "name": "CLANS-ARMY",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0oDRqYgQHH76QThhBAl9DaVFqpZPy-r62RnRGn4Fv30.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0oDRqYgQHH76QThhBAl9DaVFqpZPy-r62RnRGn4Fv30.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0oDRqYgQHH76QThhBAl9DaVFqpZPy-r62RnRGn4Fv30.png"
+        },
+        "clanLevel": 3,
+        "stars": 17,
+        "destructionPercentage": 61.3
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20210209T191213.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 52,
+        "stars": 176,
+        "destructionPercentage": 313.4,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 125,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20210201T075448.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 28,
+        "destructionPercentage": 97.6,
+        "expEarned": 116
+      },
+      "opponent": {
+        "tag": "#2P8Y0PC8V",
+        "name": "边陲小镇",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2wrtWPS40_9KSN1l2R_785dlv-a6AuO3o8TSwjdSnfE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2wrtWPS40_9KSN1l2R_785dlv-a6AuO3o8TSwjdSnfE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2wrtWPS40_9KSN1l2R_785dlv-a6AuO3o8TSwjdSnfE.png"
+        },
+        "clanLevel": 3,
+        "stars": 15,
+        "destructionPercentage": 53.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210115T210032.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 7,
+        "stars": 11,
+        "destructionPercentage": 40.2,
+        "expEarned": 15
+      },
+      "opponent": {
+        "tag": "#2YQGVYVGR",
+        "name": "Good of war",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/snjfC_zIvxwwvokbF5C5Gso1Ah6LEk4DNXKJTKEppsg.png"
+        },
+        "clanLevel": 2,
+        "stars": 29,
+        "destructionPercentage": 96.8
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210113T212630.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 9,
+        "stars": 22,
+        "destructionPercentage": 82.8,
+        "expEarned": 50
+      },
+      "opponent": {
+        "tag": "#2YGYVL09C",
+        "name": "Die Bezwinger",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/5_ZSj2O1SfU_R556KGY4UoDAg-vKlJesiHQbS10AuE4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/5_ZSj2O1SfU_R556KGY4UoDAg-vKlJesiHQbS10AuE4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/5_ZSj2O1SfU_R556KGY4UoDAg-vKlJesiHQbS10AuE4.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20210111T172155.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 6,
+        "stars": 13,
+        "destructionPercentage": 50.1,
+        "expEarned": 32
+      },
+      "opponent": {
+        "tag": "#9G9GR089",
+        "name": "Fire Patch Kids",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png"
+        },
+        "clanLevel": 6,
+        "stars": 29,
+        "destructionPercentage": 96.3
+      }
+    },
+    {
+      "result": null,
+      "endTime": "20210109T134237.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXzYssJAxgHtxEzlkW8Y_tzOFHWQLEbUr3_OO93xnds.png"
+        },
+        "clanLevel": 3,
+        "attacks": 54,
+        "stars": 143,
+        "destructionPercentage": 283.26666,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 120,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201231T221356.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 8,
+        "stars": 23,
+        "destructionPercentage": 78.9,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#2L2JR90G9",
+        "name": "{Bat7/VLP}",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/E8eU961seM9nAsz9KgKnLo4O2BSh_G1MIC5RirRVV8E.png"
+        },
+        "clanLevel": 1,
+        "stars": 11,
+        "destructionPercentage": 53.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201229T193507.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 15,
+        "stars": 27,
+        "destructionPercentage": 93.3,
+        "expEarned": 120
+      },
+      "opponent": {
+        "tag": "#2PVU8RJY0",
+        "name": "LnL",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/L184cOlpMtPaFTM2_v4MrpvDdcgKdycxf57oc70NQX0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/L184cOlpMtPaFTM2_v4MrpvDdcgKdycxf57oc70NQX0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/L184cOlpMtPaFTM2_v4MrpvDdcgKdycxf57oc70NQX0.png"
+        },
+        "clanLevel": 3,
+        "stars": 27,
+        "destructionPercentage": 91.8
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20201227T191050.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 13,
+        "stars": 28,
+        "destructionPercentage": 97,
+        "expEarned": 65
+      },
+      "opponent": {
+        "tag": "#29UVCR0YL",
+        "name": "İMPARATORLUK",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fwhicQ4klpyHYvlwIuLnyyXzDM5wrC4JvH8zHaqa-OI.png"
+        },
+        "clanLevel": 3,
+        "stars": 29,
+        "destructionPercentage": 96.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201225T175023.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 12,
+        "stars": 29,
+        "destructionPercentage": 95.9,
+        "expEarned": 114
+      },
+      "opponent": {
+        "tag": "#2YR02UL0G",
+        "name": "Coc examiners",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/BIZ4D9ihzimhDQ4y8GKb0VbXvJKDiLVIJ_MyIQxDVLA.png"
+        },
+        "clanLevel": 1,
+        "stars": 15,
+        "destructionPercentage": 61.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201223T175255.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 11,
+        "stars": 29,
+        "destructionPercentage": 97.7,
+        "expEarned": 115
+      },
+      "opponent": {
+        "tag": "#2YL08VPUR",
+        "name": "YA ALLAH",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/L-ZOUufJIVmp9qaGnbcstrRxMlg9mtY5laR8GP0RD4I.png"
+        },
+        "clanLevel": 3,
+        "stars": 27,
+        "destructionPercentage": 94.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201221T172336.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zW6cgsL1YUn4HBK7EdXpTnTAFEGZgRldHAgnIjt4lTw.png"
+        },
+        "clanLevel": 2,
+        "attacks": 12,
+        "stars": 29,
+        "destructionPercentage": 97.6,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#2YL20299L",
+        "name": "مرگ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/sjGhn78cz9uvrpnUJil23SAGGiRHR63lzEGeXF9S_aM.png"
+        },
+        "clanLevel": 1,
+        "stars": 27,
+        "destructionPercentage": 92.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201219T174646.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png"
+        },
+        "clanLevel": 1,
+        "attacks": 11,
+        "stars": 27,
+        "destructionPercentage": 94.4,
+        "expEarned": 119
+      },
+      "opponent": {
+        "tag": "#20QGPRPCL",
+        "name": "MASTER_CV_UK",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0A06lvZDN_WpZi9lYonmBali4-3hdvmh3K9d_1SCuHw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0A06lvZDN_WpZi9lYonmBali4-3hdvmh3K9d_1SCuHw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0A06lvZDN_WpZi9lYonmBali4-3hdvmh3K9d_1SCuHw.png"
+        },
+        "clanLevel": 4,
+        "stars": 20,
+        "destructionPercentage": 71.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20201217T182549.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png"
+        },
+        "clanLevel": 1,
+        "attacks": 13,
+        "stars": 28,
+        "destructionPercentage": 98.2,
+        "expEarned": 64
+      },
+      "opponent": {
+        "tag": "#209G9CJU9",
+        "name": "BROKEN HEART ..",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6nMTcfkFAnMU4m5iqEyWT5_YP9nWWReUX7FL6zZPWJg.png"
+        },
+        "clanLevel": 6,
+        "stars": 29,
+        "destructionPercentage": 98.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201215T190403.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png"
+        },
+        "clanLevel": 1,
+        "attacks": 18,
+        "stars": 27,
+        "destructionPercentage": 95.6,
+        "expEarned": 118
+      },
+      "opponent": {
+        "tag": "#2YYP9CVVP",
+        "name": "نانا",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GFp6YT82zZfiddFw5eicbuiy_TuUBRqrl46swfuey0E.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GFp6YT82zZfiddFw5eicbuiy_TuUBRqrl46swfuey0E.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GFp6YT82zZfiddFw5eicbuiy_TuUBRqrl46swfuey0E.png"
+        },
+        "clanLevel": 3,
+        "stars": 14,
+        "destructionPercentage": 57.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201213T195208.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png"
+        },
+        "clanLevel": 1,
+        "attacks": 13,
+        "stars": 26,
+        "destructionPercentage": 89.6,
+        "expEarned": 119
+      },
+      "opponent": {
+        "tag": "#2P8C99LPJ",
+        "name": "BLUR",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/b-yd4yPkKUvTwZZZ-B8HV5Z7--tLPWzgxtpHcZbjwVE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/b-yd4yPkKUvTwZZZ-B8HV5Z7--tLPWzgxtpHcZbjwVE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/b-yd4yPkKUvTwZZZ-B8HV5Z7--tLPWzgxtpHcZbjwVE.png"
+        },
+        "clanLevel": 1,
+        "stars": 25,
+        "destructionPercentage": 83.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20201211T202949.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3kHw8HkZRVb9icy54tfR-WdKWshOdIKqHyDcTTUmxQg.png"
+        },
+        "clanLevel": 1,
+        "attacks": 12,
+        "stars": 26,
+        "destructionPercentage": 92,
+        "expEarned": 121
+      },
+      "opponent": {
+        "tag": "#2Y2QCJLVJ",
+        "name": "uncut gents",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/SsY-f02IACVORy5m8HNXZSHaTep20K2JN9azeiuBwzE.png"
+        },
+        "clanLevel": 2,
+        "stars": 23,
+        "destructionPercentage": 76.9
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20201209T205705.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#2YL0PYJJG",
+        "name": "Les poulets",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xYarSrPJi4pegGXvHL7TfEDP7OK5-iF7r4FL0pZObHQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xYarSrPJi4pegGXvHL7TfEDP7OK5-iF7r4FL0pZObHQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xYarSrPJi4pegGXvHL7TfEDP7OK5-iF7r4FL0pZObHQ.png"
+        },
+        "clanLevel": 1,
+        "attacks": 14,
+        "stars": 25,
+        "destructionPercentage": 81.1,
+        "expEarned": 72
+      },
+      "opponent": {
+        "tag": "#R9J82YLQ",
+        "name": "Los creadores",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Mn0EI7w0mlv6q0nD65pQEf7XSwPGmobmZSPt0fLguWQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Mn0EI7w0mlv6q0nD65pQEf7XSwPGmobmZSPt0fLguWQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Mn0EI7w0mlv6q0nD65pQEf7XSwPGmobmZSPt0fLguWQ.png"
+        },
+        "clanLevel": 7,
+        "stars": 27,
+        "destructionPercentage": 95.5
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}

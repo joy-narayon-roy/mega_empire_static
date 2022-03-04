@@ -10,15 +10,10 @@
     <link rel="stylesheet" href="/styles/style.css">
     <link rel="stylesheet" href="/styles/header.style.css">
     <link rel="stylesheet" href="/styles/home.page.css">
+    <link rel="stylesheet" href="/styles/footer.style.css">
     <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
         integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"> -->
 
-    <style>
-        .moveingcards {
-            display: flex;
-            flex-direction: row;
-        }
-    </style>
 
 </head>
 
@@ -37,14 +32,23 @@
             </div>
         </div>
     </header>
-    <aside class="nav navHide" id="nav">
-        <ul class="nav--list">
-            <li><a class="nav--list_btn" href="/">Home</a></li>
-            <li><a class="nav--list_btn" href="/">Home</a></li>
-            <li><a class="nav--list_btn" href="/">Home</a></li>
-            <li><a class="nav--list_btn" href="/">Home</a></li>
-            <li><a class="nav--list_btn" href="/">Home</a></li>
-        </ul>
+    <aside class="nav navShow" id="nav">
+        
+        <div class="nav-container">
+            <div class="nav--info">
+                <img src="https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png" alt="">
+                <span>Mega Empire</span>
+            </div>
+            <ul class="nav--list">
+                <li><a class="nav--list_btn" href="/">Home</a></li>
+                <li><a class="nav--list_btn" href="/">Members</a></li>
+                <li><a class="nav--list_btn" href="/">War</a></li>
+                <li><a class="nav--list_btn" href="/">War League</a></li>
+                <li><a class="nav--list_btn" href="/">Home</a></li>
+            </ul>
+        </div>
+
+
         <div class="nav--toggle">
             <button onclick="toggle()" class=""><i class="fa-solid fa-chevron-left"></i></button>
         </div>
@@ -130,6 +134,49 @@
         <section class="members-section">
             <div class="container">
                 <h2 class="section-title">Our Members</h2>
+                <marquee class="" behavior="" direction="">
+                    <div>
+                        <div class="members-card">
+                            <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+                                alt="" class="member-img">
+                            <ul class="member-body">
+                                <li class="name">Wizerd King</li>
+                                <li class="uid">#98QYV2PYR</li>
+                                <li>Tawon Hall : 9</li>
+                                <li>Rank : 1 <span class="uparrow"></span></li>
+                                <li>Co-Leader</li>
+                                <li><a href="" disabled class="morebtn">More...</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="members-card leader">
+                            <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+                                alt="" class="member-img">
+                            <ul class="member-body">
+                                <li class="name">Wizerd King</li>
+                                <li class="uid">#98QYV2PYR</li>
+                                <li>Tawon Hall : 9</li>
+                                <li>Rank : 1 <span class="uparrow"></span></li>
+                                <li>Co-Leader</li>
+                                <li><a href="" disabled class="morebtn">More...</a></li>
+                            </ul>
+                        </div>
+
+                        <div class="members-card">
+                            <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
+                                alt="" class="member-img">
+                            <ul class="member-body">
+                                <li class="name">Wizerd King</li>
+                                <li class="uid">#98QYV2PYR</li>
+                                <li>Tawon Hall : 9</li>
+                                <li>Rank : 1 <span class="uparrow"></span></li>
+                                <li>Co-Leader</li>
+                                <li><a href="" disabled class="morebtn">More...</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </marquee>
+                <!--
                 <div class="members--cards">
 
                     <div class="members-card leader">
@@ -169,128 +216,10 @@
                             <li><a href="/member/#1254" class="morebtn">More...</a></li>
                         </ul>
                     </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
-                    <div class="members-card">
-                        <img src="https://api-assets.clashofclans.com/leagues/288/CorhMY9ZmQvqXTZ4VYVuUgPNGSHsO0cEXEL5WYRmB2Y.png"
-                            alt="" class="member-img">
-                        <ul class="member-body">
-                            <li class="name">Joy</li>
-                            <li class="uid">#98QYV2PYR</li>
-                            <li>Tawon Hall : 9</li>
-                            <li>Rank : 1 <span class="uparrow"></span></li>
-                            <li>Co-Leader</li>
-                            <li><a href="/member/#1254" class="morebtn">More...</a></li>
-                        </ul>
-                    </div>
 
                 </div>
+
+            -->
             </div>
         </section>
 
@@ -312,10 +241,16 @@
         </section>
     </main>
 
-    <footer>
+    <footer class="footer">
         <div class="container">
-            <div class="">
-                <img src="/" alt="">
+            <div class="brand">
+                <img class="brand--logo"
+                    src="https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png">
+
+                <div class="brand--name">
+                    <h2>MEGA EMPIRE</h2>
+                    <small>#RRVJCJVY</small>
+                </div>
             </div>
         </div>
     </footer>
@@ -323,22 +258,19 @@
     <script src="https://kit.fontawesome.com/3f767751d3.js" crossorigin="anonymous"></script>
     <script>
 
-window.onload=()=>{
-    let {origin,pathname} = new URL(location.href)
-    let cssLinks = document.head.getElementsByTagName('link')
+        window.onload = () => {
+            let { origin, pathname } = new URL(location.href)
+            let cssLinks = document.head.getElementsByTagName('link')
 
-    for(let cssLink of cssLinks){
-        let rel = cssLink.attributes.getNamedItem('rel').value
-        if (rel == "stylesheet" && pathname == "/mega_empire_static/") {
-            let baseUrl = cssLink.getAttribute('href')
-            baseUrl = pathname + baseUrl
-            cssLink.setAttribute('href',baseUrl)
-            console.dir(cssLink)
-            console.log(baseUrl)
+            for (let cssLink of cssLinks) {
+                let rel = cssLink.attributes.getNamedItem('rel').value
+                if (rel == "stylesheet" && pathname == "/mega_empire_static/") {
+                    let baseUrl = cssLink.getAttribute('href')
+                    baseUrl = pathname + baseUrl
+                    cssLink.setAttribute('href', baseUrl)
+                }
+            }
         }
-    }
-    console.log(origin, pathname)  
-}
 
         let btns = document.querySelectorAll("#joinus")
         btns.forEach(btn => {

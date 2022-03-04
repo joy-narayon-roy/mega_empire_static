@@ -25,8 +25,12 @@
   --col-blue-3:#a6cbe4;
   --col-gray-light: #c4c4c4;
   --col-gray-active: #918980;
+  --col-bg-black:#030303;
   --col-bg-gray:#444440;
+  --col-bg-gray-0:#4f4d48;
   --col-bg-gray-1:#706c50;
+  --col-bg-gray-2:#b2ac86;
+  --col-bg-gray-3:#8f8b6c;
   --col-disable: #cecece;
   --col-red-0: #db1115;
   --col-red-1: #ac3d3d;
@@ -43,6 +47,22 @@
 body {
   background: var(--col-white);
 }
+::-webkit-scrollbar {
+  width: 0.5rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: var(--col-purple-0);
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--col-blue-1);
+  border-radius: 20px;
+}
+
+
 ul{
   list-style-position: inside;
   list-style-type: none;
@@ -110,7 +130,7 @@ ul{
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .container {
-    width: 80%;
+    width: 70%;
     height: auto;
     margin: 0 auto;
   }

@@ -1,0 +1,1957 @@
+{
+  "items": [
+    {
+      "result": "win",
+      "endTime": "20220224T114541.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 18,
+        "stars": 45,
+        "destructionPercentage": 100,
+        "expEarned": 124
+      },
+      "opponent": {
+        "tag": "#LG8PPQ0J",
+        "name": "Tamo Gladiator",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Q-Svez1Az4PNgZ89s4C4paKzhmyUfRc14p7ZnO197h4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Q-Svez1Az4PNgZ89s4C4paKzhmyUfRc14p7ZnO197h4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Q-Svez1Az4PNgZ89s4C4paKzhmyUfRc14p7ZnO197h4.png"
+        },
+        "clanLevel": 9,
+        "stars": 42,
+        "destructionPercentage": 97.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220222T061008.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 16,
+        "stars": 45,
+        "destructionPercentage": 100,
+        "expEarned": 125
+      },
+      "opponent": {
+        "tag": "#L0L89C8Y",
+        "name": "Ghost Black",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4vLvAkaNNp2h-f8z58GVtDIJj0P5F9GliQV3ov25krg.png"
+        },
+        "clanLevel": 7,
+        "stars": 44,
+        "destructionPercentage": 99
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220220T052036.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 16,
+        "stars": 45,
+        "destructionPercentage": 100,
+        "expEarned": 124
+      },
+      "opponent": {
+        "tag": "#2LU9QRVVY",
+        "name": "~LATUNDAN~",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/uU2zr-_qMH_yXw9GUCWLabUd4N2YhFmOIAL03FYvZOs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/uU2zr-_qMH_yXw9GUCWLabUd4N2YhFmOIAL03FYvZOs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/uU2zr-_qMH_yXw9GUCWLabUd4N2YhFmOIAL03FYvZOs.png"
+        },
+        "clanLevel": 3,
+        "stars": 44,
+        "destructionPercentage": 98.46667
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20220217T143632.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 12,
+        "stars": 28,
+        "destructionPercentage": 97.8,
+        "expEarned": 62
+      },
+      "opponent": {
+        "tag": "#2YV20V2RR",
+        "name": "Merkabah",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Y0_rHp6xXw-EaczUTLMbr7EWK4ZqxWtohCMNnlcIYqY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Y0_rHp6xXw-EaczUTLMbr7EWK4ZqxWtohCMNnlcIYqY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Y0_rHp6xXw-EaczUTLMbr7EWK4ZqxWtohCMNnlcIYqY.png"
+        },
+        "clanLevel": 5,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220214T202240.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 14,
+        "stars": 29,
+        "destructionPercentage": 97.2,
+        "expEarned": 111
+      },
+      "opponent": {
+        "tag": "#2LJQY8JP0",
+        "name": "KUDA PONI",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cOhEPvbwchn86wtyCaqIVt48mkt5iNo5LseNfEO1sdo.png"
+        },
+        "clanLevel": 3,
+        "stars": 22,
+        "destructionPercentage": 75.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220212T162429.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 14,
+        "stars": 29,
+        "destructionPercentage": 97.9,
+        "expEarned": 110
+      },
+      "opponent": {
+        "tag": "#22GYYQCUJ",
+        "name": "LORD•IDONESIA",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Y-D4Lho6YMzmOeJbAwP5zgi5TBrkAHJFDHIITat4pGU.png"
+        },
+        "clanLevel": 2,
+        "stars": 26,
+        "destructionPercentage": 94.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220210T165451.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 15,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 113
+      },
+      "opponent": {
+        "tag": "#2LRJC02JV",
+        "name": "brave foxes",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/K8uJqe5D9l6SKX0_i2Gn7mDZijONHlBybYgeFQwL7D4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/K8uJqe5D9l6SKX0_i2Gn7mDZijONHlBybYgeFQwL7D4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/K8uJqe5D9l6SKX0_i2Gn7mDZijONHlBybYgeFQwL7D4.png"
+        },
+        "clanLevel": 2,
+        "stars": 8,
+        "destructionPercentage": 34.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220208T021657.000Z",
+      "teamSize": 15,
+      "attacksPerMember": 1,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 69,
+        "stars": 220,
+        "destructionPercentage": 392,
+        "expEarned": 0
+      },
+      "opponent": {
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/H39b_-WLZGtZVWQ0hqTkE-Tn2AaQnQWy_Iz4yBlvL0M.png"
+        },
+        "clanLevel": 0,
+        "stars": 44,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220122T174709.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 7,
+        "stars": 13,
+        "destructionPercentage": 96.8,
+        "expEarned": 99
+      },
+      "opponent": {
+        "tag": "#2QPGL2YVG",
+        "name": "ɢᴀᴍᴇ ᴏᴠᴇʀ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nGbkz8aQ4lSMuLf6_Hv2_P_woQd-6DzuVj5PxONKZaI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nGbkz8aQ4lSMuLf6_Hv2_P_woQd-6DzuVj5PxONKZaI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nGbkz8aQ4lSMuLf6_Hv2_P_woQd-6DzuVj5PxONKZaI.png"
+        },
+        "clanLevel": 2,
+        "stars": 7,
+        "destructionPercentage": 54.8
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20220120T183109.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 8,
+        "stars": 13,
+        "destructionPercentage": 91.6,
+        "expEarned": 99
+      },
+      "opponent": {
+        "tag": "#2Y80GPUVY",
+        "name": "طلاب جامعة",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/01Uglh-E9ev5YCMbdnW3DHQRsy4R3YQCJAtsdAZymNg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/01Uglh-E9ev5YCMbdnW3DHQRsy4R3YQCJAtsdAZymNg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/01Uglh-E9ev5YCMbdnW3DHQRsy4R3YQCJAtsdAZymNg.png"
+        },
+        "clanLevel": 1,
+        "stars": 0,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20220117T074450.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 8,
+        "stars": 11,
+        "destructionPercentage": 96,
+        "expEarned": 48
+      },
+      "opponent": {
+        "tag": "#80QLQGC9",
+        "name": "Amit warriors",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ndN4kbnDZQmjAnh0HIWyNZkUXeW56RFYigf-28h39Co.png"
+        },
+        "clanLevel": 11,
+        "stars": 15,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20190301T060915.000Z",
+      "teamSize": 5,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "attacks": 7,
+        "stars": 13,
+        "destructionPercentage": 96.6,
+        "expEarned": 96
+      },
+      "opponent": {
+        "tag": "#22R28Q8V0",
+        "name": "ПОБЕДА",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dHneuyiE8iA6J1t-WLoy4b8xm73tRgaXi20ZsM-wuPA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dHneuyiE8iA6J1t-WLoy4b8xm73tRgaXi20ZsM-wuPA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dHneuyiE8iA6J1t-WLoy4b8xm73tRgaXi20ZsM-wuPA.png"
+        },
+        "clanLevel": 3,
+        "stars": 14,
+        "destructionPercentage": 94
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170603T170803.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 13,
+        "stars": 29,
+        "destructionPercentage": 99,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#C2Y8U90Y",
+        "name": "Strijders_NL",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/sccvSL6fUsppNMgh4yeE2_xGH8gCQ8k48BZSB5EfaZI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/sccvSL6fUsppNMgh4yeE2_xGH8gCQ8k48BZSB5EfaZI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/sccvSL6fUsppNMgh4yeE2_xGH8gCQ8k48BZSB5EfaZI.png"
+        },
+        "clanLevel": 1,
+        "stars": 6,
+        "destructionPercentage": 20
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170601T174349.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 27,
+        "destructionPercentage": 90.7,
+        "expEarned": 57
+      },
+      "opponent": {
+        "tag": "#RG0JRPUR",
+        "name": "Lotus Elite",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/auobQ3X8GoMVROwMz3ovroSuqxZ-j6yK0dHkyJUhS44.png"
+        },
+        "clanLevel": 2,
+        "stars": 28,
+        "destructionPercentage": 95.5
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20170530T172836.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 54
+      },
+      "opponent": {
+        "tag": "#GPY2UG2U",
+        "name": "RammBrothers",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/hzG3kJhtgN599jMZHraHVTLnjeBU2oRuAiBgZFtrXpU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/hzG3kJhtgN599jMZHraHVTLnjeBU2oRuAiBgZFtrXpU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/hzG3kJhtgN599jMZHraHVTLnjeBU2oRuAiBgZFtrXpU.png"
+        },
+        "clanLevel": 5,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170528T173551.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 105
+      },
+      "opponent": {
+        "tag": "#C900YU8J",
+        "name": "rfk pj dm war",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PdIJbNzlvT6btf1UqqcV18GDpj9vBbIZeZcFCHVRRMg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PdIJbNzlvT6btf1UqqcV18GDpj9vBbIZeZcFCHVRRMg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PdIJbNzlvT6btf1UqqcV18GDpj9vBbIZeZcFCHVRRMg.png"
+        },
+        "clanLevel": 2,
+        "stars": 6,
+        "destructionPercentage": 31.1
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170526T170713.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 16,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#CG909GV2",
+        "name": "حبيبي يا عراق",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xDfjY8UfIdEX3274m5oya0u34B4SdVd9ulgWFJZLc1Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xDfjY8UfIdEX3274m5oya0u34B4SdVd9ulgWFJZLc1Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xDfjY8UfIdEX3274m5oya0u34B4SdVd9ulgWFJZLc1Q.png"
+        },
+        "clanLevel": 1,
+        "stars": 25,
+        "destructionPercentage": 90.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170524T171808.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#RGGV9J9Q",
+        "name": "Love+sadi",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6aY8LZBzE4IOJL1slE-WSrQH4fFeDhN6l7AhKSHE3OM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6aY8LZBzE4IOJL1slE-WSrQH4fFeDhN6l7AhKSHE3OM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6aY8LZBzE4IOJL1slE-WSrQH4fFeDhN6l7AhKSHE3OM.png"
+        },
+        "clanLevel": 1,
+        "stars": 11,
+        "destructionPercentage": 52.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170522T170143.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#Q0Q9JYY2",
+        "name": "Family Warriors",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6V-FCnp-LJ-_dG24OeCRmhjlP6W12SzsAyo24ev1_c0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6V-FCnp-LJ-_dG24OeCRmhjlP6W12SzsAyo24ev1_c0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6V-FCnp-LJ-_dG24OeCRmhjlP6W12SzsAyo24ev1_c0.png"
+        },
+        "clanLevel": 7,
+        "stars": 0,
+        "destructionPercentage": 0
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170517T031405.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 17,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JQPYL8UR",
+        "name": "Jessica lynn",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JkO4lKj3WrqVVeP7eJk1ga1WRtRtTbitvJMgxP91mBQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JkO4lKj3WrqVVeP7eJk1ga1WRtRtTbitvJMgxP91mBQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JkO4lKj3WrqVVeP7eJk1ga1WRtRtTbitvJMgxP91mBQ.png"
+        },
+        "clanLevel": 3,
+        "stars": 26,
+        "destructionPercentage": 93.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170514T081419.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 16,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#CGPUQJV9",
+        "name": "☆ W'A'R W'E'R ☆",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2kuAhheDQwqFn0XLE1J6g6HCDLK8ai7_yjpZpR29Jhw.png"
+        },
+        "clanLevel": 1,
+        "stars": 12,
+        "destructionPercentage": 46.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170512T064911.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 29,
+        "destructionPercentage": 98.1,
+        "expEarned": 57
+      },
+      "opponent": {
+        "tag": "#RL9VL90Y",
+        "name": "Kyansitthar",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xmpIcfPgSMLk02YRPpdG344DmLpW1YPTS4wEPcMc9Jk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xmpIcfPgSMLk02YRPpdG344DmLpW1YPTS4wEPcMc9Jk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xmpIcfPgSMLk02YRPpdG344DmLpW1YPTS4wEPcMc9Jk.png"
+        },
+        "clanLevel": 5,
+        "stars": 29,
+        "destructionPercentage": 99.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170510T061906.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 12,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#RVUP29U8",
+        "name": "گلیاتور",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/FnBauVadtiwCuTGloPM7Skhli7ik6XiHqQdYVyR78YY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/FnBauVadtiwCuTGloPM7Skhli7ik6XiHqQdYVyR78YY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/FnBauVadtiwCuTGloPM7Skhli7ik6XiHqQdYVyR78YY.png"
+        },
+        "clanLevel": 4,
+        "stars": 28,
+        "destructionPercentage": 96.7
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170506T101044.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 17,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#G9U20QL9",
+        "name": "clan 1barsatu",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ADY3IObE_2a-3pHv2b1jcdAeGoFsJQx2oTEj7Y5H7YM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ADY3IObE_2a-3pHv2b1jcdAeGoFsJQx2oTEj7Y5H7YM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ADY3IObE_2a-3pHv2b1jcdAeGoFsJQx2oTEj7Y5H7YM.png"
+        },
+        "clanLevel": 5,
+        "stars": 21,
+        "destructionPercentage": 75.8
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20170503T055405.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 17,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 54
+      },
+      "opponent": {
+        "tag": "#C20U0UGC",
+        "name": "ZuGo Family",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/5WcJ_xhmnpgB30TUy91VB1aC8RkfCBxuYI1PCzQdFcE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/5WcJ_xhmnpgB30TUy91VB1aC8RkfCBxuYI1PCzQdFcE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/5WcJ_xhmnpgB30TUy91VB1aC8RkfCBxuYI1PCzQdFcE.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170430T174047.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 11,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 105
+      },
+      "opponent": {
+        "tag": "#C9L9JU2C",
+        "name": "SYRIA",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/gMC1pH_NGDwaHv33WheGT2XWkTbOz_OJZ6w16REYz2Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/gMC1pH_NGDwaHv33WheGT2XWkTbOz_OJZ6w16REYz2Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/gMC1pH_NGDwaHv33WheGT2XWkTbOz_OJZ6w16REYz2Y.png"
+        },
+        "clanLevel": 3,
+        "stars": 12,
+        "destructionPercentage": 43.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170428T163508.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 15,
+        "stars": 29,
+        "destructionPercentage": 99.5,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#QP0LY20J",
+        "name": "末日不孤单",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/PCRyLUS1pJuv1m681d_DYtdvCDgDxj7Py9D7mRU4D9k.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/PCRyLUS1pJuv1m681d_DYtdvCDgDxj7Py9D7mRU4D9k.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/PCRyLUS1pJuv1m681d_DYtdvCDgDxj7Py9D7mRU4D9k.png"
+        },
+        "clanLevel": 6,
+        "stars": 13,
+        "destructionPercentage": 42.7
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170426T160635.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 103
+      },
+      "opponent": {
+        "tag": "#R8RPR98P",
+        "name": "dosti bazar",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dE709IES48-XkkNKsnexSAsH6eoYCWRS59toTEINt7I.png"
+        },
+        "clanLevel": 3,
+        "stars": 24,
+        "destructionPercentage": 86.8
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20170424T161354.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 12,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 54
+      },
+      "opponent": {
+        "tag": "#JY8C82LG",
+        "name": "عاشقان",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/846cSyIe4mxde8FHkes_hhszBEJU69H2Ecdbi_10s30.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/846cSyIe4mxde8FHkes_hhszBEJU69H2Ecdbi_10s30.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/846cSyIe4mxde8FHkes_hhszBEJU69H2Ecdbi_10s30.png"
+        },
+        "clanLevel": 3,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170422T160329.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 16,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JYUCQJ88",
+        "name": "☺The YouTubers☺",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/qSKNpYBxc6bIsAETpUY3VZtd_-QkR9-HA7pMX8qYqsE.png"
+        },
+        "clanLevel": 3,
+        "stars": 28,
+        "destructionPercentage": 98.1
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170420T161032.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 16,
+        "stars": 28,
+        "destructionPercentage": 97.5,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JGLLQYRC",
+        "name": "Alone friends",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+        },
+        "clanLevel": 1,
+        "stars": 6,
+        "destructionPercentage": 20
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170418T160523.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 312
+      },
+      "opponent": {
+        "tag": "#RR9PCPJY",
+        "name": "Heaven Kinngs",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/zha9H7IkBhPhGIJ4YzyWYCRokepQs0R-MAEXigWmu-o.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/zha9H7IkBhPhGIJ4YzyWYCRokepQs0R-MAEXigWmu-o.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/zha9H7IkBhPhGIJ4YzyWYCRokepQs0R-MAEXigWmu-o.png"
+        },
+        "clanLevel": 4,
+        "stars": 26,
+        "destructionPercentage": 94
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170416T153838.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 15,
+        "stars": 29,
+        "destructionPercentage": 99.4,
+        "expEarned": 159
+      },
+      "opponent": {
+        "tag": "#C2PGYCLG",
+        "name": "Prayer and Hope",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/_XdJPabwgjZqppiKPEsWE-UoAO09GCcxpXgmGlRlYl0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/_XdJPabwgjZqppiKPEsWE-UoAO09GCcxpXgmGlRlYl0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/_XdJPabwgjZqppiKPEsWE-UoAO09GCcxpXgmGlRlYl0.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170414T154214.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 309
+      },
+      "opponent": {
+        "tag": "#RG02VVQQ",
+        "name": "الله وانتو",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JOnEdb8kMGHdd6Rv2FVNSCSMM3CCxdzXuJw8rZid4ZE.png"
+        },
+        "clanLevel": 2,
+        "stars": 5,
+        "destructionPercentage": 21.3
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20170412T154822.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 162
+      },
+      "opponent": {
+        "tag": "#G8UPGCCY",
+        "name": "Мы БОЙЦЫ",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/lltbUkuFkhX5BnEQguOaS09MTAAZXGzu-KGK8IJEUbQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/lltbUkuFkhX5BnEQguOaS09MTAAZXGzu-KGK8IJEUbQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/lltbUkuFkhX5BnEQguOaS09MTAAZXGzu-KGK8IJEUbQ.png"
+        },
+        "clanLevel": 4,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170410T161445.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/pXBWx1_jnxKGBuC66WaNPW8vfNT6JcH0s8y427gn-Gw.png"
+        },
+        "clanLevel": 4,
+        "attacks": 15,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 312
+      },
+      "opponent": {
+        "tag": "#2RVQ28R9",
+        "name": "BARCELONA",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/xxOTXDq4EMhVcttr_P-8mHYC4ZAuaqSTupSSvhJZ960.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/xxOTXDq4EMhVcttr_P-8mHYC4ZAuaqSTupSSvhJZ960.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/xxOTXDq4EMhVcttr_P-8mHYC4ZAuaqSTupSSvhJZ960.png"
+        },
+        "clanLevel": 8,
+        "stars": 9,
+        "destructionPercentage": 42.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170408T155047.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 12,
+        "stars": 29,
+        "destructionPercentage": 96.2,
+        "expEarned": 306
+      },
+      "opponent": {
+        "tag": "#RJL88RJJ",
+        "name": "MASTER MIND",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/GgVu5CHf0vL7NNvjqQbqCQpxoPKn6HjvI1V6XNOuWRA.png"
+        },
+        "clanLevel": 1,
+        "stars": 28,
+        "destructionPercentage": 97.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170406T153525.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 29,
+        "destructionPercentage": 99.4,
+        "expEarned": 54
+      },
+      "opponent": {
+        "tag": "#RVVUYGUQ",
+        "name": "ASCON BRAND",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/I5fnJXSdt1SjGTQxexu0Oq58zDIGPTc_d4YeH9-BF04.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/I5fnJXSdt1SjGTQxexu0Oq58zDIGPTc_d4YeH9-BF04.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/I5fnJXSdt1SjGTQxexu0Oq58zDIGPTc_d4YeH9-BF04.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170404T154453.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 107
+      },
+      "opponent": {
+        "tag": "#GGR0U8PU",
+        "name": "Savage101",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Jw_aoBifoWjUQpf9xsEBZwGR4MujOl1-PAY08OXHt0A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Jw_aoBifoWjUQpf9xsEBZwGR4MujOl1-PAY08OXHt0A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Jw_aoBifoWjUQpf9xsEBZwGR4MujOl1-PAY08OXHt0A.png"
+        },
+        "clanLevel": 1,
+        "stars": 13,
+        "destructionPercentage": 47.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170402T152948.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#J00YGP2V",
+        "name": "MS Firghter BD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/OuU93d-obYJhmo8is3Iarz46jzdT712fRDpy9k3wJO4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/OuU93d-obYJhmo8is3Iarz46jzdT712fRDpy9k3wJO4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/OuU93d-obYJhmo8is3Iarz46jzdT712fRDpy9k3wJO4.png"
+        },
+        "clanLevel": 2,
+        "stars": 6,
+        "destructionPercentage": 25.6
+      }
+    },
+    {
+      "result": "tie",
+      "endTime": "20170331T153632.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 13,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 55
+      },
+      "opponent": {
+        "tag": "#QQ89YRRV",
+        "name": "المغاوير",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/E50mLg6lamNJ965mZpkAvArQ3O03KL2PFQ2ACSW4cl0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/E50mLg6lamNJ965mZpkAvArQ3O03KL2PFQ2ACSW4cl0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/E50mLg6lamNJ965mZpkAvArQ3O03KL2PFQ2ACSW4cl0.png"
+        },
+        "clanLevel": 7,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170329T162446.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 26,
+        "destructionPercentage": 95.9,
+        "expEarned": 55
+      },
+      "opponent": {
+        "tag": "#R8UYYJYP",
+        "name": "كلان المحبة",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yc5L-TdOM5zEsYGFf-yrwuOJtBin9r71H5m1aSCX9-g.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yc5L-TdOM5zEsYGFf-yrwuOJtBin9r71H5m1aSCX9-g.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yc5L-TdOM5zEsYGFf-yrwuOJtBin9r71H5m1aSCX9-g.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170327T150325.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 15,
+        "stars": 28,
+        "destructionPercentage": 96,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#JGLJ9CU0",
+        "name": "SVD",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2jQ2f6_K9FouwGb-RImA8eP24cOIqsfTf2OQ9bx-CJQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2jQ2f6_K9FouwGb-RImA8eP24cOIqsfTf2OQ9bx-CJQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2jQ2f6_K9FouwGb-RImA8eP24cOIqsfTf2OQ9bx-CJQ.png"
+        },
+        "clanLevel": 2,
+        "stars": 27,
+        "destructionPercentage": 90.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170325T140953.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JVQ02JQQ",
+        "name": "QO'QON & TIGRS®",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/R1X42Eu7-6DY80p4FAxDAorcDk9xrYRpq-qNGhalPeU.png"
+        },
+        "clanLevel": 2,
+        "stars": 29,
+        "destructionPercentage": 96.9
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170323T143938.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 12,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JG082LUC",
+        "name": "ROYALE ATTACKER",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png"
+        },
+        "clanLevel": 1,
+        "stars": 17,
+        "destructionPercentage": 65.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170321T153648.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 20,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#JVVCJRVV",
+        "name": "os br",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/o-rmAQPcpGKVCRb5KswB5PGWiz5PrU9iX0UyITq3J6A.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/o-rmAQPcpGKVCRb5KswB5PGWiz5PrU9iX0UyITq3J6A.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/o-rmAQPcpGKVCRb5KswB5PGWiz5PrU9iX0UyITq3J6A.png"
+        },
+        "clanLevel": 1,
+        "stars": 11,
+        "destructionPercentage": 52.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170319T141514.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 15,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 105
+      },
+      "opponent": {
+        "tag": "#J8QRQR2C",
+        "name": "Б.О.Р.Е.Ц.",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vni68C1ejMV3Epo2MBVeuCug6AoR92LRp2d1OIsnEGQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vni68C1ejMV3Epo2MBVeuCug6AoR92LRp2d1OIsnEGQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vni68C1ejMV3Epo2MBVeuCug6AoR92LRp2d1OIsnEGQ.png"
+        },
+        "clanLevel": 2,
+        "stars": 22,
+        "destructionPercentage": 80
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170317T142854.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 16,
+        "stars": 29,
+        "destructionPercentage": 98.7,
+        "expEarned": 51
+      },
+      "opponent": {
+        "tag": "#RRQ8RPVQ",
+        "name": "Os Destruidores",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/-mAUPD81vs9Dd7VKGKVViusJ9VFWHL0qnnmUWSE1sT4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/-mAUPD81vs9Dd7VKGKVViusJ9VFWHL0qnnmUWSE1sT4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/-mAUPD81vs9Dd7VKGKVViusJ9VFWHL0qnnmUWSE1sT4.png"
+        },
+        "clanLevel": 2,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170315T151501.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 20,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 103
+      },
+      "opponent": {
+        "tag": "#G0000YYG",
+        "name": "GOLDEN RUDRA",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/X4NKYIwzWtpctGgSNOQ5LSuDOmGPEWs3jqMpmxlePNU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/X4NKYIwzWtpctGgSNOQ5LSuDOmGPEWs3jqMpmxlePNU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/X4NKYIwzWtpctGgSNOQ5LSuDOmGPEWs3jqMpmxlePNU.png"
+        },
+        "clanLevel": 4,
+        "stars": 8,
+        "destructionPercentage": 38.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170313T143859.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 16,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 105
+      },
+      "opponent": {
+        "tag": "#G9G8Y9PP",
+        "name": "كلنا العراق",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9i8YtQh_SvBJETJmbzupNvWN3h8hnXNDw9rmBjl2cXk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9i8YtQh_SvBJETJmbzupNvWN3h8hnXNDw9rmBjl2cXk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9i8YtQh_SvBJETJmbzupNvWN3h8hnXNDw9rmBjl2cXk.png"
+        },
+        "clanLevel": 2,
+        "stars": 12,
+        "destructionPercentage": 40
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170311T143855.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 15,
+        "stars": 29,
+        "destructionPercentage": 98.6,
+        "expEarned": 105
+      },
+      "opponent": {
+        "tag": "#RL2Q0LLV",
+        "name": "RedneckWarriors",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/u-e__MyDXOySjOy98QEC08orXFpxJYNdOCiLZfxMMkg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/u-e__MyDXOySjOy98QEC08orXFpxJYNdOCiLZfxMMkg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/u-e__MyDXOySjOy98QEC08orXFpxJYNdOCiLZfxMMkg.png"
+        },
+        "clanLevel": 1,
+        "stars": 21,
+        "destructionPercentage": 77.6
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170309T145437.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 103
+      },
+      "opponent": {
+        "tag": "#J9G98Y0L",
+        "name": "DEUS DA GUERRA!",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZVv653CzXMnlObUmgcD4vuFvsF2mYcr_bh1y-w6P0ds.png"
+        },
+        "clanLevel": 1,
+        "stars": 16,
+        "destructionPercentage": 59.7
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170307T125915.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 19,
+        "stars": 26,
+        "destructionPercentage": 92,
+        "expEarned": 56
+      },
+      "opponent": {
+        "tag": "#Q9R2JQR2",
+        "name": "LES KILLERS",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0OsvTPLlv9_VvrMGEhkgiWdHxPNi9WCBwk5O5VvuwRg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0OsvTPLlv9_VvrMGEhkgiWdHxPNi9WCBwk5O5VvuwRg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0OsvTPLlv9_VvrMGEhkgiWdHxPNi9WCBwk5O5VvuwRg.png"
+        },
+        "clanLevel": 7,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170305T135446.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 14,
+        "stars": 28,
+        "destructionPercentage": 94.7,
+        "expEarned": 52
+      },
+      "opponent": {
+        "tag": "#P0GU90GY",
+        "name": "PERSIAN GULF",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/hdAUMq3ZDeNpWUr_W3afRnUHpOCh16q5dlL46xJhCQg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/hdAUMq3ZDeNpWUr_W3afRnUHpOCh16q5dlL46xJhCQg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/hdAUMq3ZDeNpWUr_W3afRnUHpOCh16q5dlL46xJhCQg.png"
+        },
+        "clanLevel": 6,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170303T144901.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 16,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 106
+      },
+      "opponent": {
+        "tag": "#RYPU9CRJ",
+        "name": "حبي مرتضى",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1b18pjTXDemJnTd81qWedMOZZcCrHyuXV5LczH0ZAyA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1b18pjTXDemJnTd81qWedMOZZcCrHyuXV5LczH0ZAyA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1b18pjTXDemJnTd81qWedMOZZcCrHyuXV5LczH0ZAyA.png"
+        },
+        "clanLevel": 3,
+        "stars": 14,
+        "destructionPercentage": 53.2
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170301T154051.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/cncSgf85ULZMTP2RoXb3tGoRNa4KItSl8ugziOCuTCA.png"
+        },
+        "clanLevel": 3,
+        "attacks": 15,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 103
+      },
+      "opponent": {
+        "tag": "#JYC2CJC0",
+        "name": "زاخو كوردستان",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/ZyzMJw1fF2MZLayI-sXEkaJaZNrcANWQamgN_9UoueE.png"
+        },
+        "clanLevel": 2,
+        "stars": 21,
+        "destructionPercentage": 76.4
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170227T162909.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+        },
+        "clanLevel": 2,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#GGVJ8QPY",
+        "name": "کلش بازای خسته",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/jqabKPbWd6n4m2YWixgbHtNXRiwK3CrIagCzloAo_Z4.png"
+        },
+        "clanLevel": 5,
+        "stars": 18,
+        "destructionPercentage": 62.5
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170225T171349.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+        },
+        "clanLevel": 2,
+        "attacks": 14,
+        "stars": 30,
+        "destructionPercentage": 100,
+        "expEarned": 104
+      },
+      "opponent": {
+        "tag": "#G82LGUJ8",
+        "name": "clash of italy",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/siFc1K6LNt_JbbnD-xd0b6MpFSvt24wZ-hW2DeiE0-s.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/siFc1K6LNt_JbbnD-xd0b6MpFSvt24wZ-hW2DeiE0-s.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/siFc1K6LNt_JbbnD-xd0b6MpFSvt24wZ-hW2DeiE0-s.png"
+        },
+        "clanLevel": 2,
+        "stars": 17,
+        "destructionPercentage": 57.5
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170221T150652.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+        },
+        "clanLevel": 2,
+        "attacks": 16,
+        "stars": 29,
+        "destructionPercentage": 97.3,
+        "expEarned": 52
+      },
+      "opponent": {
+        "tag": "#228G8UR9",
+        "name": "Dirty MOB",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/njFgKkySALjtoRf3DkfuU_nJxygVs4UwtlBI4Hbuugw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/njFgKkySALjtoRf3DkfuU_nJxygVs4UwtlBI4Hbuugw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/njFgKkySALjtoRf3DkfuU_nJxygVs4UwtlBI4Hbuugw.png"
+        },
+        "clanLevel": 10,
+        "stars": 30,
+        "destructionPercentage": 100
+      }
+    },
+    {
+      "result": "lose",
+      "endTime": "20170219T142519.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+        },
+        "clanLevel": 2,
+        "attacks": 16,
+        "stars": 28,
+        "destructionPercentage": 98.1,
+        "expEarned": 53
+      },
+      "opponent": {
+        "tag": "#GCPC0VGQ",
+        "name": "قاهر الملاين",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/x3fog4qQM-iGyzvs3ulAU7I5JKDSvtrXbHrtpVz1a3Y.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/x3fog4qQM-iGyzvs3ulAU7I5JKDSvtrXbHrtpVz1a3Y.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/x3fog4qQM-iGyzvs3ulAU7I5JKDSvtrXbHrtpVz1a3Y.png"
+        },
+        "clanLevel": 2,
+        "stars": 29,
+        "destructionPercentage": 99.3
+      }
+    },
+    {
+      "result": "win",
+      "endTime": "20170217T131634.000Z",
+      "teamSize": 10,
+      "attacksPerMember": 2,
+      "clan": {
+        "tag": "#RRVJCJVY",
+        "name": "MEGA EMPIRE",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JY373iarerfFfuLFE9CLSp8XgmPhsEs5bbiKj_nUF8M.png"
+        },
+        "clanLevel": 2,
+        "attacks": 16,
+        "stars": 27,
+        "destructionPercentage": 95.1,
+        "expEarned": 103
+      },
+      "opponent": {
+        "tag": "#YU8QC9QJ",
+        "name": "GABRU DA CREW",
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/nPiba7RKNZ1QsfT_GeAw69z6cv_cPl8C7rk54iL6INU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/nPiba7RKNZ1QsfT_GeAw69z6cv_cPl8C7rk54iL6INU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/nPiba7RKNZ1QsfT_GeAw69z6cv_cPl8C7rk54iL6INU.png"
+        },
+        "clanLevel": 3,
+        "stars": 26,
+        "destructionPercentage": 91.6
+      }
+    }
+  ],
+  "paging": {
+    "cursors": {}
+  }
+}
