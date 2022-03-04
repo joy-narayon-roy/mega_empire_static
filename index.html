@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="/styles/style.css">
     <link rel="stylesheet" href="/styles/header.style.css">
     <link rel="stylesheet" href="/styles/home.page.css">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
-        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"> -->
 
     <style>
         .moveingcards {
@@ -326,15 +326,12 @@
 window.onload=()=>{
     let {origin,pathname} = new URL(location.href)
     let cssLinks = document.head.getElementsByTagName('link')
-    // cssLinks.forEach(cssLink=>{
-    //     console.log(cssLink.attributes)
-    // })
-    
+
     for(let cssLink of cssLinks){
         let rel = cssLink.attributes.getNamedItem('rel').value
-        if (rel == "stylesheet") {
+        if (rel == "stylesheet" && pathname == "/mega_empire_static/") {
             // cssLink.setAttribute('href',)
-            let baseUrl = new URL(cssLink.baseURI) 
+            let baseUrl = cssLink.getAttribute('href')
             console.dir(cssLink)
             console.log(baseUrl)
         }
