@@ -331,13 +331,6 @@
             })
         })
 
-        fetch('/data/clan.json').then(res => res.json()).then(data => {
-            let { memberList } = data
-            console.log(memberList)
-        }).catch(err => {
-            console.log(err)
-        })
-
         function toggle() {
             let nav = document.getElementById("nav")
             console.log(nav.classList.contains('navShow'))
@@ -351,6 +344,7 @@
         }
 
     </script>
+    <script src="/scripts/dynamicStyle.js"></script>
 </body>
 
 </html>
