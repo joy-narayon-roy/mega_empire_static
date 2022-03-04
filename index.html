@@ -325,6 +325,20 @@
 
 window.onload=()=>{
     let {origin,pathname} = new URL(location.href)
+    let cssLinks = document.head.getElementsByTagName('link')
+    // cssLinks.forEach(cssLink=>{
+    //     console.log(cssLink.attributes)
+    // })
+    
+    for(let cssLink of cssLinks){
+        let rel = cssLink.attributes.getNamedItem('rel').value
+        if (rel == "stylesheet") {
+            // cssLink.setAttribute('href',)
+            let baseUrl = new URL(cssLink.baseURI) 
+            console.dir(cssLink)
+            console.log(baseUrl)
+        }
+    }
     console.log(origin, pathname)  
 }
 
