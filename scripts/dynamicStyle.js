@@ -1,4 +1,4 @@
 window.onload=()=>{
-    let {origin,path} = new URL(location.href)
-    console.log(url)  
+    let {origin,pathname} = new URL(location.href)
+    console.log(origin, pathname)  
 }
