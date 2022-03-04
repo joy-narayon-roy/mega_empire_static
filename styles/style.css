@@ -41,8 +41,12 @@
   --col-purole-3:#688090;
   --col-green-dark: #3c5b56;
   --btn-green: #ddf783;
+  --col-green-0:#6cd006;
   --btn-green-lts: #6dbc1f;
   --col-green-light: #a3c469;
+  --col-orange-0:#c55115;
+  --col-orange-1:#fda622;
+  --col-orange-2:#ca4714;
 }
 body {
   background: var(--col-white);
